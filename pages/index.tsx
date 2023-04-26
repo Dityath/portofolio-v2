@@ -14,6 +14,8 @@ import { Scroll } from "scrollex";
 import experience from "@/contents/experience/index.json";
 import projects from "@/contents/projects/index.json";
 
+import AboutContent from "@/contents/AboutContent.mdx";
+
 const springs = {
   translateY: {
     damping: 100,
@@ -192,13 +194,15 @@ const Home = () => {
             </div>
             <div className="md:w-3/4">
               <h2 className="text-xl mt-6 md:mt-0 md:mb-6">About Me</h2>
-              <p className="relative w-full whitespace-normal">
-                Hi, I&#39;m Ditya Athallah. I&#39;m a ungraduated college
-                student at Telkom University majoring in Informatics
-                International Class. Interested in software engineering since
-                2018, especially in web development. I have learned web
-                development for 2 years. I usually work on the front-end side of
-                the development...
+              <p className="relative w-full whitespace-normal line-clamp-4">
+                Hello, my name is Ditya Athallah. I&#39;m a 21-year-old Frontend
+                Developer based in Indonesia who specializes in javascript and
+                react.js. Since 2018, I&#39;ve had a strong interest in software
+                engineering and related fields, particularly web development.
+                I&#39;ve been studying web development for over four years.
+                Actually, I&#39;ve been in love with programming languages since
+                I was in elementary school, and I still love them even though
+                I&#39;m not very good at them.
               </p>
               <Link href="/about" legacyBehavior>
                 <a className="mt-6 border w-36 h-12 rounded hover:opacity-80 transition flex items-center justify-center gap-2">
