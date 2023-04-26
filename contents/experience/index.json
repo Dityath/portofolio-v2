@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Peace Generation",
+    "city": "Bandung",
+    "jobTitle": "IT Officer Assistant",
+    "date": "November 2022 - Present",
+    "img": "/porto/PeaceGen.png",
+    "imgAlt": "Peace Generation"
+  },
+  {
+    "title": "Braga Technologies",
+    "city": "Bandung",
+    "jobTitle": "Frontend Developer",
+    "date": "May 2022 - December 2022",
+    "img": "/porto/Bratech.png",
+    "imgAlt": "Braga Technologies"
+  },
+  {
+    "title": "Kawan Kerja",
+    "city": "Bandung",
+    "jobTitle": "Full Stack Engineer Intern",
+    "date": "May 2022 - July 2022",
+    "img": "/porto/KawanKerja.png",
+    "imgAlt": "Kawan Kerja"
+  },
+  {
+    "title": "Mechtech.idn",
+    "city": "Surabaya",
+    "jobTitle": "Web Designer Intern",
+    "date": "November 2021 - February 2022",
+    "img": "/porto/MechTech.png",
+    "imgAlt": "Mechtech.idn"
+  },
+  {
+    "title": "Motion Laboratory",
+    "city": "Bandung",
+    "jobTitle": "UI/UX Designer",
+    "date": "August 2021 - March 2022",
+    "img": "/porto/Motion.png",
+    "imgAlt": "Motion Laboratory"
+  },
+  {
+    "title": "RPL-GDC Laboratory",
+    "city": "Bandung",
+    "jobTitle": "Frontend Developer",
+    "date": "September 2021 - March 2022",
+    "img": "/porto/RPLGDC.png",
+    "imgAlt": "RPL-GDC Laboratory"
+  },
+  {
+    "title": "Proclub Telkom University",
+    "city": "Bandung",
+    "jobTitle": "As Product Designer Intern",
+    "date": "October 2020 - February 2021",
+    "img": "/porto/Proclub.png",
+    "imgAlt": "Proclub Telkom University"
+  },
+  {
+    "title": "Motion Laboratory",
+    "city": "Bandung",
+    "jobTitle": "UI/UX Designer Intern",
+    "date": "October 2020 - March 2021",
+    "img": "/porto/Motion.png",
+    "imgAlt": "Motion Laboratory"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Dashboard Dinas Kehutanan Provinsi Jawa Barat",
+    "projectType": "Website Development",
+    "jobTitle": "Frontend Developer",
+    "img": "/porto/DashboardDishut.png",
+    "imgAlt": "Dashboard Dishut"
+  },
+  {
+    "title": "SEAN-CSO Website",
+    "projectType": "Website Development",
+    "jobTitle": "Website Project Manager",
+    "img": "/porto/SEAN-CSO.png",
+    "imgAlt": "SEAN-CSO Website"
+  },
+  {
+    "title": "Motion Website",
+    "projectType": "Website Development",
+    "jobTitle": "Frontend Developer",
+    "img": "/porto/Motionweb.png",
+    "imgAlt": "Motion Website"
+  },
+  {
+    "title": "Testcov.id",
+    "projectType": "Website Development",
+    "jobTitle": "UI/UX Designer",
+    "img": "/porto/Testcovid.png",
+    "imgAlt": "TestCov.id"
+  },
+  {
+    "title": "Wangsaff.js",
+    "projectType": "Chatbot Automation at Whatsapp",
+    "jobTitle": "As Software Engineer",
+    "img": "/porto/Whatsapp js.png",
+    "imgAlt": "Wangsaff.js"
+  },
+  {
+    "title": "Curio",
+    "projectType": "Mobile App Concept",
+    "jobTitle": "UI/UX Designer",
+    "img": "/porto/Curio.png",
+    "imgAlt": "Curio"
+  }
+]
