@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  important: true,
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -27,8 +28,5 @@ module.exports = {
       },
     },
   },
-  plugins: [
-    require("tailwind-scrollbar-hide"),
-    require("@tailwindcss/line-clamp"),
-  ],
+  plugins: [require("tailwind-scrollbar-hide")],
 };

@@ -6,6 +6,13 @@ import Layout from "@/components/layout";
 
 import projects from "@/contents/projects/index.json";
 
+import DishutJabar from "@/contents/projects/DishutJabar";
+import SeanCsoWebsite from "@/contents/projects/SeanCsoWebsite";
+import MotionWebsite from "@/contents/projects/MotionWebsite";
+import TesCovId from "@/contents/projects/TesCovId";
+import WangsaffJs from "@/contents/projects/WangsaffJs";
+import Curio from "@/contents/projects/Curio";
+
 const Detail = () => {
   const router = useRouter();
   const { id } = router.query;
@@ -16,6 +23,15 @@ const Detail = () => {
     }
   }, [id, router]);
 
+  const content = [
+    <DishutJabar key={10} />,
+    <SeanCsoWebsite key={11} />,
+    <MotionWebsite key={12} />,
+    <TesCovId key={13} />,
+    <WangsaffJs key={14} />,
+    <Curio key={15} />,
+  ];
+
   return (
     <Layout page="Experiences" desc="">
       <motion.main
@@ -25,8 +41,11 @@ const Detail = () => {
         className="mx-4 my-10 text-blanco flex justify-center"
       >
         <div className="max-w-lg md:max-w-2xl lg:max-w-5xl w-full flex flex-col lg:flex-row lg:gap-5 min-h-[60vh]">
-          Sorry guys, I haven&#39;t write anything about{" "}
-          {projects[Number(id)] ? projects[Number(id)].title : ""} :(
+          <article>
+            {/* Sorry guys, I haven&#39;t write anything about{" "}
+            {projects[Number(id)] ? projects[Number(id)].title : ""} :( */}
+            {content[Number(id)]}
+          </article>
         </div>
       </motion.main>
     </Layout>

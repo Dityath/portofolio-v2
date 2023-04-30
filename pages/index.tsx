@@ -14,8 +14,6 @@ import { Scroll } from "scrollex";
 import experience from "@/contents/experience/index.json";
 import projects from "@/contents/projects/index.json";
 
-import AboutContent from "@/contents/AboutContent.mdx";
-
 const springs = {
   translateY: {
     damping: 100,
@@ -186,7 +184,7 @@ const Home = () => {
           <div className="bg-rellenos border border-bordes w-full sm:max-w-lg md:max-w-xl lg:max-w-4xl rounded text-blanco p-4 flex flex-col gap-4 md:flex-row">
             <div className="relative w-full sm:w-[294px] h-[297px] overflow-hidden rounded justify-self-center self-center">
               <Image
-                src="/foto-diri/foto.jpeg"
+                src="/foto-diri/foto2.jpg"
                 alt="Ditya's Photo"
                 fill
                 style={{ objectFit: "cover" }}

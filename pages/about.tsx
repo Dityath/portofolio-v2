@@ -21,7 +21,7 @@ const About = () => {
         <div className="max-w-lg md:max-w-2xl lg:max-w-5xl w-full flex flex-col lg:flex-row lg:gap-5">
           <div className="relative w-full sm:w-[294px] h-[297px] overflow-hidden rounded justify-self-center self-center lg:self-start lg:mt-6">
             <Image
-              src="/foto-diri/foto.jpeg"
+              src="/foto-diri/foto2.jpg"
               alt="Ditya's Photo"
               fill
               style={{ objectFit: "cover" }}
