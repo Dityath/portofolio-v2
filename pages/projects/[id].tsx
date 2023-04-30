@@ -33,7 +33,7 @@ const Detail = () => {
   ];
 
   return (
-    <Layout page="Experiences" desc="">
+    <Layout page="Projects" desc="">
       <motion.main
         initial={{ y: "10vh", opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
