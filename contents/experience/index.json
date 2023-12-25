@@ -3,7 +3,7 @@
     "title": "Peace Generation",
     "city": "Bandung",
     "jobTitle": "IT Officer Assistant",
-    "date": "November 2022 - Present",
+    "date": "June 2022 - September 2023",
     "img": "/porto/PeaceGen.png",
     "imgAlt": "Peace Generation"
   },
@@ -30,29 +30,5 @@
     "date": "November 2021 - February 2022",
     "img": "/porto/MechTech.png",
     "imgAlt": "Mechtech.idn"
-  },
-  {
-    "title": "Motion Laboratory",
-    "city": "Bandung",
-    "jobTitle": "UI/UX Designer",
-    "date": "October 2021 - March 2022",
-    "img": "/porto/Motion.png",
-    "imgAlt": "Motion Laboratory"
-  },
-  {
-    "title": "RPL-GDC Laboratory",
-    "city": "Bandung",
-    "jobTitle": "Frontend Developer",
-    "date": "September 2021 - March 2022",
-    "img": "/porto/RPLGDC.png",
-    "imgAlt": "RPL-GDC Laboratory"
-  },
-  {
-    "title": "Proclub Telkom University",
-    "city": "Bandung",
-    "jobTitle": "As Product Designer Intern",
-    "date": "October 2020 - February 2021",
-    "img": "/porto/Proclub.png",
-    "imgAlt": "Proclub Telkom University"
   }
 ]
